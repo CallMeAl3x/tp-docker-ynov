@@ -1,0 +1,8 @@
+.git
+.gitignore
+docker-lab.tar
+docker-image/
+__pycache__/
+*.pyc
+.env
+password.txt
